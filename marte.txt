@@ -1,3 +1,5 @@
 Marte é o planeta vermelho.
 
 Existem muitos filmes.
+
+Estamos criando alguns exemplos em casa, para enviar ao github.
