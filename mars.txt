@@ -1,1 +1,5 @@
 Mars is know as the read planet.
+
+Mass: 6.4185x1023 kg
+Volume: 1.6318x1011 km3
+Satellite: 4
